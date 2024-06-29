@@ -28,5 +28,5 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge
 https://raw.githubusercontent.com/DheMasker/sing-box_Route-rules/main/oisd_nl_setup/oisd_nsfw_domainswild.txt
 https://raw.githubusercontent.com/DheMasker/sing-box_Route-rules/main/oisd_nl_setup/oisd_big_domainswild.txt
 https://raw.githubusercontent.com/DheMasker/sing-box_Route-rules/main/oisd_nl_setup/oisd_small_domainswild.txt
-curl -L https://dl.dropboxusercontent.com/s/t426sctp3f7s5jq5jxooq/rule_nsfwp.yaml?rlkey=g3ntld4akarr0yl4k0fjpf07v -o rule_nsfwp.yaml
-curl -L https://dl.dropboxusercontent.com/s/uyjyar9dzpcbc4tnqemz6/rule_nsfwn.yaml?rlkey=igvrnp0edaj5g3385cv119xpi -o rule_nsfwn.yaml
+https://raw.githubusercontent.com/malikshi/open_clash/main/rule_provider/rule_porn.yaml
+https://raw.githubusercontent.com/malikshi/open_clash/main/rule_provider/rule_nsfw.yaml
